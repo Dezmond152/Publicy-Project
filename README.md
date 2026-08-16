@@ -2,7 +2,7 @@
 
 #  Publicy Project 
 
-### ✨ A simple Windows application for editing ready-made HTML templates! ✨
+###  A simple Windows application for editing ready-made HTML templates! 
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-🔎 **How it works?**  
+ **How it works?**  
 Publicy Project searches for pre-coded keywords or placeholders in your templates  
 and replaces them with your specified values—quickly and efficiently!
 
@@ -22,12 +22,9 @@ and replaces them with your specified values—quickly and efficiently!
 
 ---
 
-💡 **Why Publicy Project?**  
-Save time, for a litlle. No need to edit HTML code manually  🚀
+ **Why Publicy Project?**  
+Save time, for a litlle. No need to edit HTML code manually  
 
----
-
-Made with ❤️ by [Dezmond152](https://github.com/Dezmond152).
 
 </div>
 
